@@ -3,6 +3,12 @@ import java.net.*;
 import java.util.*;
 import com.sun.net.httpserver.*;
 
+/**
+ * ByteWebServer - a java based http server
+ * @author Shravan Jambukesan
+ * https://github.com/ShravanJ/ByteWebServer/
+ */
+
 public class ByteWebServer
 {
 	HttpServer server;
